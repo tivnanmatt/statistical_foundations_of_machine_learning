@@ -1,9 +1,12 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: mymarkdownfile
+root: intro 
+parts:
+  - caption: Hello Part 1
+    chapters:
+    - file: markdown
+    - file: notebooks
+  - caption: Hello Part 2
+    chapters:
+    - file: mymarkdownfile
