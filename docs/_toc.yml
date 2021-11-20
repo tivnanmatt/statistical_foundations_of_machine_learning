@@ -7,17 +7,12 @@ parts:
     chapters:
     - file: markdown
       sections:
-      - file: mymarkdownfile
+        - file: mymarkdownfile
   - caption: Day 2
     chapters:
     - file: notebooks
-      sections:
-      - file: mymarkdownfile
   - caption: Day 3
     chapters:
+    - file: markdown2
       sections:
-      - file: markdown
-      sections:
-      - file: notebooks
-      sections:
-      - file: mymarkdownfile
+      - file: mymarkdownfile2
