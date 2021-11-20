@@ -3,10 +3,21 @@
 format: jb-book
 root: intro 
 parts:
-  - caption: Hello Part 1
+  - caption: Day 1
     chapters:
     - file: markdown
-    - file: notebooks
-  - caption: Hello Part 2
+      sections:
+      - file: mymarkdownfile
+  - caption: Day 2
     chapters:
-    - file: mymarkdownfile
+    - file: notebooks
+      sections:
+      - file: mymarkdownfile
+  - caption: Day 3
+    chapters:
+      sections:
+      - file: markdown
+      sections:
+      - file: notebooks
+      sections:
+      - file: mymarkdownfile
