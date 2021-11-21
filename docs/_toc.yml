@@ -2,35 +2,14 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 format: jb-book
 root: intro 
-parts:
-  - caption: Day 1
-    chapters:
-    - file: day_01.ipynb
-   - caption: Day 2
-    chapters:
-    - file: day_02.ipynb
-   - caption: Day 3
-    chapters:
-    - file: day_03.ipynb
-   - caption: Day 4
-    chapters:
-    - file: day_04.ipynb
-   - caption: Day 5
-    chapters:
-    - file: day_05.ipynb
-   - caption: Day 6
-    chapters:
-    - file: day_06.ipynb
-   - caption: Day 7
-    chapters:
-    - file: day_07.ipynb
-   - caption: Day 8
-    chapters:
-    - file: day_08.ipynb
-   - caption: Day 9
-    chapters:
-    - file: day_09.ipynb
-   - caption: Day 10
-    chapters:
-    - file: day_10.ipynb
- 
+chapters:
+- file: day_01.ipynb
+- file: day_02.ipynb
+- file: day_03.ipynb
+- file: day_04.ipynb
+- file: day_05.ipynb
+- file: day_06.ipynb
+- file: day_07.ipynb
+- file: day_08.ipynb
+- file: day_09.ipynb
+- file: day_10.ipynb
