@@ -5,14 +5,32 @@ root: intro
 parts:
   - caption: Day 1
     chapters:
-    - file: markdown
-      sections:
-        - file: mymarkdownfile
-  - caption: Day 2
+    - file: day_01.ipynb
+   - caption: Day 2
     chapters:
-    - file: notebooks
-  - caption: Day 3
+    - file: day_02.ipynb
+   - caption: Day 3
     chapters:
-    - file: markdown2
-      sections:
-      - file: mymarkdownfile2
+    - file: day_03.ipynb
+   - caption: Day 4
+    chapters:
+    - file: day_04.ipynb
+   - caption: Day 5
+    chapters:
+    - file: day_05.ipynb
+   - caption: Day 6
+    chapters:
+    - file: day_06.ipynb
+   - caption: Day 7
+    chapters:
+    - file: day_07.ipynb
+   - caption: Day 8
+    chapters:
+    - file: day_08.ipynb
+   - caption: Day 9
+    chapters:
+    - file: day_09.ipynb
+   - caption: Day 10
+    chapters:
+    - file: day_10.ipynb
+ 
